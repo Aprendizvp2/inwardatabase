@@ -1,0 +1,18 @@
+{
+    "Course": [
+        {
+            "id": 1,
+            "name": "Arts & Humanities",
+            "text": "Draw and Paint Arts",
+            "img": "https://visme.co/blog/wp-content/uploads/2021/07/presentation-skills-header.-wide.png",
+            "route": "Courses"
+        },
+        {
+            "id": 2,
+            "name": "Arts & Humanities",
+            "text": "Bussines & Law",
+            "img": "https://mondocr.com/wp-content/uploads/2021/06/Catalogue-amico-e1623992139928.png",
+            "route": "Courses"
+        }
+    ]
+}
