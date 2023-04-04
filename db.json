@@ -32,5 +32,43 @@
             "img": "https://joelcarroll.com.au/wp-content/uploads/2021/04/Asset-1@2x-768x538.png",
             "route": "Modules"
         }
+    ],
+    "Unit": [
+        {
+            "id": 1,
+            "name": "Draw with HB pencil",
+            "lesson": [
+                {
+                    "id": 1,
+                    "title": "Lesson 1",
+                    "img": "https://static.independent.co.uk/2021/01/21/17/indybest-artist-take-up-art-lockdown.jpg?width=1200",
+                    "route": "Units"
+                },
+                {
+                    "id": 2,
+                    "title": "Lesson 2",
+                    "img": "https://static.independent.co.uk/2021/01/21/17/indybest-artist-take-up-art-lockdown.jpg?width=1200",
+                    "route": "Units"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Law",
+            "lesson": [
+                {
+                    "id": 1,
+                    "title": "Lesson 1",
+                    "img": "https://static.independent.co.uk/2021/01/21/17/indybest-artist-take-up-art-lockdown.jpg?width=1200",
+                    "route": "Units"
+                },
+                {
+                    "id": 2,
+                    "title": "Lesson 2",
+                    "img": "https://static.independent.co.uk/2021/01/21/17/indybest-artist-take-up-art-lockdown.jpg?width=1200",
+                    "route": "Units"
+                }
+            ]
+        }
     ]
 }
